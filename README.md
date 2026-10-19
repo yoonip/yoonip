@@ -8,11 +8,19 @@
 
 ## 공학과 지식 공유
 
-사람의 시간은 유한하지만, 지식은 다음 세대로 이어지며 더 나아질 수 있습니다. 제가 이해한 원리와 검증한 방법을 누구나 다시 살펴보고 활용할 수 있는 형태로 남기려 합니다. 결과만 보여주기보다 그 결과에 이른 근거와 조건을 함께 기록하는 이유입니다.
+사람에게 주어진 시간은 유한하지만, 지식은 세대를 건너 이어지고 더 나아질 수 있습니다. 오늘의 기술도 이름이 널리 알려진 연구자뿐 아니라 원리를 설명하고, 도구를 고치고, 실패를 기록해 온 많은 사람의 작업 위에 서 있습니다. 저도 그 흐름에 보탬이 되고 싶습니다. 제가 이해한 원리와 확인한 방법을 다른 사람이 다시 살펴보고 활용할 수 있도록 남기는 것이 이 기록의 출발점입니다.
 
-공학은 사람의 삶에 도움이 되어야 한다고 생각합니다. 장애로 인한 일상의 불편을 줄이고, 에너지를 더 효율적으로 쓰며, 환경과 지속가능성을 지키는 기술에 가치를 둡니다. 한국의 과학기술과 산업 경쟁력에 보탬이 되는 일도 그 연장선에 있습니다. 이 기록이 지금의 동료와 독자는 물론, 훗날 제 아이와 조카를 비롯한 다음 세대가 배우고 발전시키는 데 작은 기반이 되기를 바랍니다.
+공학의 가치는 사람의 삶에서 드러난다고 생각합니다. 일상의 번거로운 일을 줄이고 시간을 아껴 주는 기술, 장애나 나이에 따른 제약을 낮추어 스스로 선택하고 활동할 수 있게 하는 기술 모두 중요합니다. 의료 기기와 진단·재활 기술은 치료와 회복을 돕고, 로봇과 원격 제어는 사람이 위험한 환경에 직접 들어가야 하는 일을 줄일 수 있습니다. 작은 편의부터 생명과 안전에 관계된 문제까지, 기술이 실제로 누구에게 어떤 도움을 주는지 생각하며 공학을 바라봅니다.
 
-[연구·프로젝트·학술 활동](https://github.com/yoonip/engineering-notes/blob/main/research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [분야별 목차](https://github.com/yoonip/engineering-notes/blob/main/CATALOG.md) · [기초 개념·모델·검증](https://github.com/yoonip/engineering-notes/blob/main/docs/FOUNDATIONS.md)
+효율도 같은 관점에서 봅니다. 계산을 빠르게 하는 일은 더 적은 시간과 자원으로 문제를 해결하는 데 의미가 있습니다. 반복 작업을 자동화하면 사람은 판단과 창의성이 필요한 일에 더 집중할 수 있습니다. 에너지를 효율적으로 생산하고 사용하며, 자원 낭비를 줄이고 수리와 유지보수가 가능한 시스템을 만드는 일은 환경과 지속가능성으로 이어집니다. 성능 수치와 함께 사용자의 부담, 운용 비용, 신뢰성과 오래 사용할 수 있는지도 살피고 싶습니다.
+
+도움이 되는 기술은 믿을 수 있어야 합니다. 어떤 조건에서 성립하는 결과인지, 무엇을 측정했고 무엇을 가정했는지, 다른 방법으로 확인할 수 있는지를 함께 기록하려 합니다. 잘못 이해한 부분이 드러나면 근거를 따라 수정하고, 설계와 검증의 과정을 다른 사람도 이해할 수 있게 설명하는 태도를 중요하게 생각합니다. 지식을 공유하는 일에는 읽는 사람의 시간을 존중하고, 잘못된 설명이 다음 작업으로 이어지지 않도록 살피는 책임도 있다고 봅니다.
+
+이러한 작업이 국가의 과학기술 기반과 산업 경쟁력을 튼튼하게 하는 데 기여하기를 바랍니다. 한국의 국가 기술 역량과 국가경쟁력을 높이는 일 역시, 더 좋은 기술을 만들고 세계와 지식을 나누는 과정 속에서 의미를 갖는다고 생각합니다. 궁극적으로는 어느 한 나라의 성과에 머무르지 않고, 서로 다른 지역과 환경에 있는 사람들에게 도움이 되며 전 세계 인류의 삶을 더 낫게 만드는 공학을 지향합니다.
+
+이 저장소가 완성된 답을 보관하는 곳에 그치지 않았으면 합니다. 누군가는 개념을 처음 이해하는 데 쓰고, 누군가는 코드를 고치거나 새로운 연구를 시작하는 데 활용할 수 있기를 바랍니다. 훗날 제 아이와 조카를 비롯한 다음 세대가 보더라도, 무엇을 만들었는지뿐 아니라 왜 그렇게 생각하고 확인했는지 따라갈 수 있는 기록을 남기고 싶습니다. 도구와 기술이 바뀌어도 배움과 개선이 이어질 수 있도록, 지식을 읽기 쉽고 다시 사용할 수 있는 형태로 공유하겠습니다.
+
+[연구·프로젝트·학술 활동](https://github.com/yoonip/engineering-notes/blob/main/연구_research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [분야별 목차](https://github.com/yoonip/engineering-notes/blob/main/분야별목차_CATALOG.md) · [기초 개념·모델·검증](https://github.com/yoonip/engineering-notes/blob/main/문서_docs/공학기초_FOUNDATIONS.md)
 
 ## 참여 연구
 
@@ -117,7 +125,7 @@ TOEIC Speaking IH (Intermediate High)
 
 ## 기록과 연락
 
-[engineering-notes](https://github.com/yoonip/engineering-notes)에 전자·컴퓨터공학과 AI의 개념, 구현 방법, 코드 분석을 정리합니다. [AI 기업과 모델](https://github.com/yoonip/engineering-notes/blob/main/model-lab/PROVIDERS.md), [알고리즘과 코딩테스트](https://github.com/yoonip/engineering-notes/tree/main/topics/08-problem-solving), [지원·시험·면접](https://github.com/yoonip/engineering-notes/tree/main/topics/55-applications-assessments) 기록을 함께 다룹니다.
+[engineering-notes](https://github.com/yoonip/engineering-notes)에 전자·컴퓨터공학과 AI의 개념, 구현 방법, 코드 분석을 정리합니다. [AI 기업과 모델](https://github.com/yoonip/engineering-notes/blob/main/AI모델실험_model-lab/PROVIDERS.md), [알고리즘과 코딩테스트](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/08-알고리즘_problem-solving), [지원·시험·면접](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/55-지원시험면접_applications-assessments) 기록을 함께 다룹니다.
 
 연구·개발 협업, 기술 교류 및 채용 제안: [dlfvud777@naver.com](mailto:dlfvud777@naver.com)
 
@@ -129,11 +137,19 @@ The research I have participated in covers low-power AI computation, SRAM, DRAM-
 
 ### Engineering and shared knowledge
 
-Our time is finite, but knowledge can pass to the next generation and continue to improve. I want to leave the principles I understand and the methods I have checked in a form that others can examine and use. That is why I document the reasoning and conditions behind a result as well as the result itself.
+Our time is finite, but knowledge can travel across generations and continue to improve. Today's technology rests on the work of many people: not only widely recognized researchers, but also those who explain principles, repair tools and document failures. I want to contribute to that continuing work by leaving the principles I understand and the methods I have checked in a form that others can examine and use.
 
-I believe engineering should improve people's lives. I value technology that reduces everyday barriers associated with disability, uses energy more efficiently, and supports the environment and sustainability. Contributing to Korea's scientific progress and industrial competitiveness is part of that purpose. I hope these records can provide a small foundation for today's colleagues and readers, and for future generations—including my children and nieces or nephews—to learn from and build upon.
+I see the value of engineering in people's lives. Technologies that remove everyday inconvenience and save time matter, as do those that reduce barriers associated with disability or age and support independent choices. Medical devices, diagnostic tools and rehabilitation technologies can support treatment and recovery. Robotics and remote operation can reduce the need for people to enter hazardous environments. From modest conveniences to questions of life and safety, I care about who benefits from a technology and how it helps them.
 
-[Research, Projects, and Publications](https://github.com/yoonip/engineering-notes/blob/main/research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [Topic Index](https://github.com/yoonip/engineering-notes/blob/main/CATALOG.md) · [Foundations, models and verification](https://github.com/yoonip/engineering-notes/blob/main/docs/FOUNDATIONS.md#english)
+I view efficiency through the same lens. Faster computation matters when it solves problems with less time and fewer resources. Automating repetitive work can leave people more room for judgment and creativity. Efficient energy production and use, reduced material waste, and systems that can be repaired and maintained connect engineering with environmental responsibility and sustainability. Alongside performance, I want to consider users' effort, operating costs, reliability and useful lifetime.
+
+Useful technology must also be trustworthy. I aim to record the conditions under which a result holds, what was measured, what was assumed, and how the result can be checked independently. When an explanation proves wrong, I value correcting it through evidence and making the design and verification process understandable to others. Sharing knowledge also means respecting readers' time and taking care that a mistaken explanation does not propagate into their work.
+
+I hope this work can strengthen scientific and technological capacity and industrial competitiveness. Those contributions have their greatest value when they help build better technology and support an exchange of knowledge across borders. My wider purpose is to contribute to humanity: engineering that benefits people living in different regions and circumstances, rather than ending with the achievements of any single country.
+
+I hope this repository will be more than a store of finished answers. One reader may use it to understand a concept for the first time; another may improve a program or begin a new research project. I want future generations, including my children and nieces or nephews, to be able to follow not only what was built but also why it was designed and checked that way. By sharing knowledge in a readable, reusable form, I hope learning and improvement can continue as tools and technologies change.
+
+[Research, Projects, and Publications](https://github.com/yoonip/engineering-notes/blob/main/연구_research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [Topic Index](https://github.com/yoonip/engineering-notes/blob/main/분야별목차_CATALOG.md) · [Foundations, models and verification](https://github.com/yoonip/engineering-notes/blob/main/문서_docs/공학기초_FOUNDATIONS.md#english)
 
 ### Research Participation
 
@@ -238,6 +254,6 @@ TOEIC Speaking IH (Intermediate High)
 
 ### Notes and Contact
 
-In [engineering-notes](https://github.com/yoonip/engineering-notes), I document concepts, implementation methods, and code analysis across electronics, computer engineering, and AI. The repository also covers [AI companies and models](https://github.com/yoonip/engineering-notes/blob/main/model-lab/PROVIDERS.md), [algorithms and coding tests](https://github.com/yoonip/engineering-notes/tree/main/topics/08-problem-solving), and [applications, assessments, and interviews](https://github.com/yoonip/engineering-notes/tree/main/topics/55-applications-assessments).
+In [engineering-notes](https://github.com/yoonip/engineering-notes), I document concepts, implementation methods, and code analysis across electronics, computer engineering, and AI. The repository also covers [AI companies and models](https://github.com/yoonip/engineering-notes/blob/main/AI모델실험_model-lab/PROVIDERS.md), [algorithms and coding tests](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/08-알고리즘_problem-solving), and [applications, assessments, and interviews](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/55-지원시험면접_applications-assessments).
 
 For research and development collaboration, technical exchange, and career opportunities: [dlfvud777@naver.com](mailto:dlfvud777@naver.com)
