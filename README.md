@@ -20,7 +20,7 @@
 
 이 저장소가 완성된 답을 보관하는 곳에 그치지 않았으면 합니다. 누군가는 개념을 처음 이해하는 데 쓰고, 누군가는 코드를 고치거나 새로운 연구를 시작하는 데 활용할 수 있기를 바랍니다. 훗날 제 아이와 조카를 비롯한 다음 세대가 보더라도, 무엇을 만들었는지뿐 아니라 왜 그렇게 생각하고 확인했는지 따라갈 수 있는 기록을 남기고 싶습니다. 도구와 기술이 바뀌어도 배움과 개선이 이어질 수 있도록, 지식을 읽기 쉽고 다시 사용할 수 있는 형태로 공유하겠습니다.
 
-[연구·프로젝트·학술 활동](https://github.com/yoonip/engineering-notes/blob/main/연구_research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [분야별 목차](https://github.com/yoonip/engineering-notes/blob/main/분야별목차_CATALOG.md) · [기초 개념·모델·검증](https://github.com/yoonip/engineering-notes/blob/main/문서_docs/공학기초_FOUNDATIONS.md)
+[연구·프로젝트·학술 활동](https://github.com/yoonip/engineering-notes/blob/main/연구_research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [분야별 목차](https://github.com/yoonip/engineering-notes/blob/main/분야별목차_CATALOG.md) · [기초 개념·모델·검증](https://github.com/yoonip/engineering-notes/blob/main/공학기초_foundations/README.md)
 
 ## 참여 연구
 
@@ -125,7 +125,7 @@ TOEIC Speaking IH (Intermediate High)
 
 ## 기록과 연락
 
-[engineering-notes](https://github.com/yoonip/engineering-notes)에 전자·컴퓨터공학과 AI의 개념, 구현 방법, 코드 분석을 정리합니다. [AI 기업과 모델](https://github.com/yoonip/engineering-notes/blob/main/AI모델실험_model-lab/PROVIDERS.md), [알고리즘과 코딩테스트](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/08-알고리즘_problem-solving), [지원·시험·면접](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/55-지원시험면접_applications-assessments) 기록을 함께 다룹니다.
+[engineering-notes](https://github.com/yoonip/engineering-notes)에 전자·컴퓨터공학과 AI의 개념, 구현 방법, 코드 분석을 정리합니다. [AI 기업과 모델](https://github.com/yoonip/engineering-notes/blob/main/AI모델실험_model-lab/PROVIDERS.md), [알고리즘과 코딩테스트](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/08-알고리즘_problem-solving), [지원·시험·면접](https://github.com/yoonip/engineering-notes/blob/main/소개_about/지원기록_APPLICATIONS.md) 기록을 함께 다룹니다.
 
 연구·개발 협업, 기술 교류 및 채용 제안: [dlfvud777@naver.com](mailto:dlfvud777@naver.com)
 
@@ -149,7 +149,7 @@ I hope this work can strengthen scientific and technological capacity and indust
 
 I hope this repository will be more than a store of finished answers. One reader may use it to understand a concept for the first time; another may improve a program or begin a new research project. I want future generations, including my children and nieces or nephews, to be able to follow not only what was built but also why it was designed and checked that way. By sharing knowledge in a readable, reusable form, I hope learning and improvement can continue as tools and technologies change.
 
-[Research, Projects, and Publications](https://github.com/yoonip/engineering-notes/blob/main/연구_research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [Topic Index](https://github.com/yoonip/engineering-notes/blob/main/분야별목차_CATALOG.md) · [Foundations, models and verification](https://github.com/yoonip/engineering-notes/blob/main/문서_docs/공학기초_FOUNDATIONS.md#english)
+[Research, Projects, and Publications](https://github.com/yoonip/engineering-notes/blob/main/연구_research/README.md) · [engineering-notes](https://github.com/yoonip/engineering-notes) · [Topic Index](https://github.com/yoonip/engineering-notes/blob/main/분야별목차_CATALOG.md) · [Foundations, models and verification](https://github.com/yoonip/engineering-notes/blob/main/공학기초_foundations/README.md#english)
 
 ### Research Participation
 
@@ -254,6 +254,6 @@ TOEIC Speaking IH (Intermediate High)
 
 ### Notes and Contact
 
-In [engineering-notes](https://github.com/yoonip/engineering-notes), I document concepts, implementation methods, and code analysis across electronics, computer engineering, and AI. The repository also covers [AI companies and models](https://github.com/yoonip/engineering-notes/blob/main/AI모델실험_model-lab/PROVIDERS.md), [algorithms and coding tests](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/08-알고리즘_problem-solving), and [applications, assessments, and interviews](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/55-지원시험면접_applications-assessments).
+In [engineering-notes](https://github.com/yoonip/engineering-notes), I document concepts, implementation methods, and code analysis across electronics, computer engineering, and AI. The repository also covers [AI companies and models](https://github.com/yoonip/engineering-notes/blob/main/AI모델실험_model-lab/PROVIDERS.md), [algorithms and coding tests](https://github.com/yoonip/engineering-notes/tree/main/분야_topics/08-알고리즘_problem-solving), and [applications, assessments, and interviews](https://github.com/yoonip/engineering-notes/blob/main/소개_about/지원기록_APPLICATIONS.md).
 
 For research and development collaboration, technical exchange, and career opportunities: [dlfvud777@naver.com](mailto:dlfvud777@naver.com)
